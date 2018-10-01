@@ -1,1 +1,1 @@
-# face_recognition_api
+API for my face recognition app
